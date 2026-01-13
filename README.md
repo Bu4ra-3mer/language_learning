@@ -1,4 +1,4 @@
-# language_learning 🗾🎧
+# language_learning 🎧
 
 A Flutter language learning application (Toku) that helps users learn Japanese through numbers, colors, family members, and phrases with audio pronunciation.
 
@@ -26,8 +26,3 @@ https://github.com/user-attachments/assets/ab129aec-d191-4ea9-9dd3-8202ee8805a1
 - Models for clean data handling
 - Playing audio from assets
 
-## 📦 Getting Started
-This project is a Flutter application.
-
-For help getting started with Flutter development, view the  
-[online documentation](https://docs.flutter.dev/).
